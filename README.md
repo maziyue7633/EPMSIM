@@ -15,12 +15,12 @@ All code was developed and tested on NVIDIA GeForce RTX 4060 GPU in the followin
 - cudnn>=8.8.1
 
 # Installation
-- git clone https://github.com/maziyue7633/EPMSIM.git
-- cd EPMSIM
+git clone https://github.com/maziyue7633/EPMSIM.git
+cd EPMSIM
 
 # Running the Code
-- cd epmsim
-- python main.py
+cd epmsim
+python main.py
 
 # Dependencies
 - `matplotlib`: for creating static, animated, and interactive visualizations.
