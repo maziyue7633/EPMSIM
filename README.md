@@ -15,15 +15,17 @@ All code was developed and tested on NVIDIA GeForce RTX 4060 GPU in the followin
 - cudnn>=8.8.1
 
 # Installation
+
 ```bash
 git clone https://github.com/maziyue7633/EPMSIM.git
 cd EPMSIM
+```
 
 # Running the Code
 ```bash
 cd epmsim
 python main.py
-
+```
 # Dependencies
 - `matplotlib`: for creating static, animated, and interactive visualizations.
 - `netCDF4`: for reading and writing NetCDF files.
